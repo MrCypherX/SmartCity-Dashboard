@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@theme {
+  --color-brand: #d16060;
+  --font-cursive: "Pacifico", cursive;
+}
+* {
+  scroll-behavior: smooth;
+}
